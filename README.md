@@ -5,4 +5,4 @@ group class project
 2. Graphic design: Benjamin Bigwood;
 3. UI: Jano Oyarzun;
 
-#Subtera
+Subtera
