@@ -1,5 +1,6 @@
 #
 group class project 
-Project manager: Cole Cram
-Graphic design: Benjamin Bigwood
-UI: Jano Oyarzun
+
+1. Project manager: Cole Cram
+2. Graphic design: Benjamin Bigwood
+3. UI: Jano Oyarzun
