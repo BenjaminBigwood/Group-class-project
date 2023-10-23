@@ -10,6 +10,7 @@ Subtera
 continuation of a project we started last year;
 single player game;
 goal explore the map fight bosses to get loot;
+Maby goal like get to surface escape planet;
 
 ![QuadroDIVVproVR3 (1) (1) (1)](https://github.com/BenjaminBigwood/Group-class-project/assets/143056232/2b6c50ce-ceda-4ceb-be69-d479d5e324db);
 
