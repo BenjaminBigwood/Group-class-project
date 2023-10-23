@@ -6,3 +6,5 @@ group class project
 3. UI: Jano Oyarzun;
 
 Subtera
+2d randomized exploration game.
+continuation of a project we started last year;
