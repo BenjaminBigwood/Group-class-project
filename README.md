@@ -13,6 +13,7 @@ by making the map not random where the player is able to gather recources to bui
 single player game;
 goal travel the galaxy and farm in space get money and recources by trading with planets you dock with.;
 Maybe goal Big money make happy;
+
 NOT ACTUAL PROJECT IMAGES
 ![QuadroDIVVproVR3 (1) (1) (1)](https://github.com/BenjaminBigwood/Group-class-project/assets/143056232/2b6c50ce-ceda-4ceb-be69-d479d5e324db);
 
