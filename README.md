@@ -6,7 +6,7 @@ group class project
 2. Graphic design: Benjamin Bigwood;
 
 Name:Space Game
-2d top down space farming game 
+3D top down space farming game 
 We decided to do a similar but slihtly different version of our game from last year 
 by making the map not random where the player is able to gather recources to build on the base;
 single player game;
