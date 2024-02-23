@@ -12,5 +12,5 @@ goal travel the galaxy and farm in space get money and recources by trading with
 Maybe end goal is get lots of money.
 
 
-![Images](<img width="515" alt="Screenshot 2024-02-14 at 8 31 07 AM"
+![](Images/<img width="515" alt="Screenshot 2024-02-14 at 8 31 07 AM"
 )
