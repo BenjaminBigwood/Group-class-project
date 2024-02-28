@@ -13,3 +13,4 @@ Maybe end goal is get lots of money.
 
 
 <img width="515" alt="Screenshot 2024-02-14 at 8 31 07 AM" src="https://github.com/BenjaminBigwood/Group-class-project/assets/143056232/83122a94-68ff-444f-9552-2018eaf1a6e4">
+
